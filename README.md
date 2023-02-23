@@ -14,6 +14,7 @@ I'm a college student at Grand Canyon University studying for my Bachelors Degre
   - Web Application Pentesting
 - Python
 - Burpsuite
+- Virtualization Labs (VMware, QUEMU/KVM, VBox)
 
 ## 🌱 Plan on studying
 - JavaScript
