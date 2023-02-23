@@ -12,6 +12,7 @@ I'm a college student at Grand Canyon University studying for my Bachelors Degre
   - TCM's PNPT Certification
   - eLearnSecurity's eJPTv2
   - Web Application Pentesting
+- Intermediate Linux
 - Python
 - Burpsuite
 - Virtualization Labs (VMware, QUEMU/KVM, VBox)
