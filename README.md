@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hola! I'm Diego!</h1>
+<p align="center">
+    <a href="https://twitter.com/maverickcyber_"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/diego-b-2002/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  </p>
 
-<!--
-**MaverickArcane/MaverickArcane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college student at Grand Canyon University studying for my Bachelors Degree in Cybersecurity! I'm a junior penetration tester learning more about the different aspects of offensive cyber. This GitHub is for random projects I work on while studying.
 
-Here are some ideas to get you started:
+---
+## 💡 I’m currently studying/practicing
+- Cybersecurity
+  - TCM's PNPT Certification
+  - eLearnSecurity's eJPTv2
+  - Web Application Pentesting
+- Python
+- Burpsuite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Plan on studying
+- JavaScript
+- PHP
+- Rust
+
+## 🕹 I'm currently having fun with
+- TryHackMe https://tryhackme.com/p/maves12
