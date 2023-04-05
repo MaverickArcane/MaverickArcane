@@ -10,7 +10,7 @@ I'm a college student at Grand Canyon University studying for my Bachelors Degre
 ## 💡 I’m currently studying/practicing
 - Cybersecurity
   - TCM's PNPT Certification
-  - eLearnSecurity's eJPTv2
+  [x] (Done!) eLearnSecurity's eJPTv2
   - Web Application Pentesting
 - Intermediate Linux
 - Python
