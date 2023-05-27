@@ -13,6 +13,7 @@ I'm a college student at Grand Canyon University studying for my Bachelors Degre
   - [x] (Done!) eLearnSecurity's eJPTv2
   - Web Application Pentesting
 - Intermediate Linux
+ - [x] Single GPU Passthrough on QEMU/KVM
 - Python
 - Burpsuite
 - Virtualization Labs (VMware, QUEMU/KVM, VBox)
