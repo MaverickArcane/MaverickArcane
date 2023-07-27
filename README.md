@@ -15,6 +15,7 @@ I'm a college student at Grand Canyon University studying for my Bachelors Degre
 - Intermediate Linux
   - [x] Single GPU Passthrough on QEMU/KVM
 - Python
+- Bash
 - Burpsuite
 - Virtualization Labs (VMware, QUEMU/KVM, VBox)
 
