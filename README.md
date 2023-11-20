@@ -18,9 +18,10 @@ I'm a college student at Grand Canyon University studying for my Bachelors Degre
 - Bash
 - Burpsuite
 - Virtualization Labs (VMware, QUEMU/KVM, VBox)
+- JavaScript
+  - Node API that interacts with AWS (Senior Capstone Project)
 
 ## 🌱 Plan on studying
-- JavaScript
 - PHP
 - Rust
 
