@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/diego-b-2002/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
 
-I'm a college student at Grand Canyon University studying for my Bachelors Degree in Cybersecurity! I'm a junior penetration tester learning more about the different aspects of offensive cyber. This GitHub is for random projects I work on while studying.
+I have a Bachelor's degree in Cybersecurity from Grand Canyon University and work as a Penetration Tester at Alacrinet, specializing in internal network security!
 
 ---
 ## 💡 I’m currently studying/practicing
