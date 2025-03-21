@@ -10,6 +10,7 @@ I have a Bachelor's degree in Cybersecurity from Grand Canyon University and wor
 ## 💡 I’m currently studying/practicing
 - Cybersecurity
   - TCM's PNPT Certification
+  - Zero Point Security's CRTO (In Progress)
   - [x] (Done!) eLearnSecurity's eJPTv2
   - Web Application Pentesting
 - Intermediate Linux
@@ -19,7 +20,7 @@ I have a Bachelor's degree in Cybersecurity from Grand Canyon University and wor
 - Burpsuite
 - Virtualization Labs (VMware, QUEMU/KVM, VBox)
 - JavaScript
-  - Node API that interacts with AWS (Senior Capstone Project)
+  - [x] Node API that interacts with AWS (Senior Capstone Project)
 
 ## 🌱 Plan on studying
 - PHP
